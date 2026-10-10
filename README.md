@@ -1,10 +1,12 @@
-<a href="https://github.com/Brainstorm2605"><img src="assets/hero.svg" width="100%" alt="MD Zaid Anwar. Y = W·X, where the output matrix spells the name. AI engineer and AI consultant: I design and build LLM agent systems, end to end."/></a>
+<a href="https://github.com/Brainstorm2605"><img src="assets/hero.svg" width="100%" alt="MD Zaid Anwar. Y = W·X, where the output matrix spells MD ZAID ANWAR. AI engineer and AI consultant: I design and build LLM agent systems, end to end."/></a>
 
 <img src="assets/motto.svg" width="100%" alt="Motto: learning matrix multiplication. Strip away the hype and an LLM is a stack of matrix multiplications with a few nonlinearities in between."/>
 
 <img src="assets/stats.svg" width="100%" alt="45k+ visitors, 2,800+ users and 50+ paying customers at CareerGenie; 18% less scoping and planning time with an agent system at Länsförsäkringar."/>
 
 <img src="assets/trajectory.svg" width="100%" alt="Career as a training run: SDET at Opentext, founder of CareerGenie, AI engineer at Länsförsäkringar, AI consultant at Gummesson Consulting AB."/>
+
+<img src="assets/contrib.svg" width="100%" alt="Contribution calendar as a 7×53 matrix, refreshed daily."/>
 
 <a href="https://www.lynecode.com/"><img src="assets/lynecode.svg" width="100%" alt="lynecode: a coding assistant for your terminal, built for large codebases. pip install lynecode"/></a>
 
